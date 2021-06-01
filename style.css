@@ -92,9 +92,43 @@
     padding-top: 70px;
 }
 
-.supercharge {
+.tools {
     padding-top: 40px;
+    font-size: 16px;
 }
-.supercharge__items {
+.tools__items {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding-top: 70px;
+}
+.tools__middle {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.tools__img--1{
+    padding-bottom: 42px;
+}
+.tools__img {
+    padding-bottom: 50px;
+}
 
+.logos {
+    padding-top: 60px;
+    flex-direction: row;
+    text-align: center;
+}
+.logos__img {
+    padding: 50px;
+}
+
+.download {
+    padding-top: 70px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
 }
