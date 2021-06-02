@@ -12,21 +12,28 @@ BEM = Bloco, Elemento e Modificador.
 
 # Links:
 
-* Link do desafio:
+* Desafio:
     
     https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9
 
-* Link para visualizar minha solução do desafio:
+* Minha solução do desafio:
 
     http://lucasbarbosadias.github.io/landing-page-clipboard
 
-* Links de estudo para quem tiver interesse em aprender Flexbox:
+* Sobre o Flexbox:
 
     https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
     https://flexboxfroggy.com/
 
-* Link de estudo sobre o padrão CSS - BEM:
+* Padrão CSS - BEM:
 
     https://desenvolvimentoparaweb.com/css/bem/
 
+* Como escrever CSS:
+
+    https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
+
+# Resultado Final:
+
+<img src="images/resultado-final.png" alt="Print do resultado final">
