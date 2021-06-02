@@ -51,12 +51,18 @@
     padding-left: 38px;
     padding-right: 38px;
     border-radius: 50px;
+    font-size: 16px;
     font-weight: 600;
     margin-left: 10px;
     margin-right: 10px;
+    text-decoration: none;
+    -webkit-box-shadow: inset -2px -5px 0px 0px #1b9f8a; 
+    box-shadow: inset 0px -3px 0px 0px #1b9f8a;
 }
 .buttons__btn--purple {
     background-color: hsl(233, 100%, 69%);
+    -webkit-box-shadow: inset -2px -5px 0px 0px #4D5CD0; 
+    box-shadow: inset 0px -3px 0px 0px #4D5CD0;
 }
 
 .subtitle {
